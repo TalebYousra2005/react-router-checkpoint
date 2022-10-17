@@ -1,24 +1,29 @@
 export const Movies = [
   {
     id: 1,
-    title: "Harry Potter and the sorceres stone",
+    title: "Harry Potter and the sorcerers stone",
     description: "Harry's first year at Hogwarts",
     posterURL: "https://m.media-amazon.com/images/I/71x1RHSaEhL._AC_SY679_.jpg",
     rating: "8.7 stars",
+    videoId: "VyHV0BRtdxo",
   },
   {
     id: 2,
     title: "Harry Potter and the chamber of secrets",
     description: "Harry's second year at Hogwarts",
-    posterURL: "https://m.media-amazon.com/images/M/MV5BMjE0YjUzNDUtMjc5OS00MTU3LTgxMmUtODhkOThkMzdjNWI4XkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+    posterURL:
+      "https://m.media-amazon.com/images/M/MV5BMjE0YjUzNDUtMjc5OS00MTU3LTgxMmUtODhkOThkMzdjNWI4XkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
     rating: "8.4 stars",
+    videoId: "jBltxS8HfQ4",
   },
   {
     id: 3,
     title: "Harry Potter and the prisonner of azkeban",
     description: "Harry's third year at Hogwarts",
-    posterURL: "https://www.indiewire.com/wp-content/uploads/2016/10/azkaban.jpg?w=535",
+    posterURL:
+      "https://www.indiewire.com/wp-content/uploads/2016/10/azkaban.jpg?w=535",
     rating: "7.9 stars",
+    videoId: "1ZdlAg3j8nI",
   },
   {
     id: 4,
@@ -26,5 +31,6 @@ export const Movies = [
     description: "Harry's fouth year at Hogwarts",
     posterURL: "https://movieposters2.com/images/636710-b.jpg",
     rating: "7.8 stars",
+    videoId: "3EGojp4Hh6I",
   },
 ];
